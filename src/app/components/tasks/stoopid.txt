@@ -1,0 +1,7 @@
+.
+./tasks.component.ts
+./stoopid.txt
+./tasks.component.html
+./crazy.sh
+./tasks.component.spec.ts
+./tasks.component.css
