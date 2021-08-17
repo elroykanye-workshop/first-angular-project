@@ -1,0 +1,13 @@
+.
+./stoopid.txt
+./crazy.sh
+./header
+./header/header.component.ts
+./header/header.component.spec.ts
+./header/header.component.css
+./header/header.component.html
+./button
+./button/button.component.spec.ts
+./button/button.component.html
+./button/button.component.css
+./button/button.component.ts
